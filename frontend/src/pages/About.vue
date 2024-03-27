@@ -9,13 +9,9 @@
             <div class="about-content">
                 <img src="../assets/images/taco-chefcartoon.png" alt="">
                 <div class="about-content-text">
-                    <p>Our restaurant QFood was founded by Quang (a 5 Michelin stars chef) in 2002 in Vietnam. After
-                        that, thanks to the support of our customers, our brand has been popularized globally in markets
-                        such as Australia, USA, Canada, UK, France, Germany, Belgium, Russia, China, Japan,
-                        Singapore, ... Mexican-style meals, the products that we deliver to customers are always the
-                        best quality products.</p>
-                    <p>Customers can eat at the restaurant to experience the Mexican atmosphere or can order food to be
-                        delivered to their homes.</p>
+                    <p>Our Restaurant ASV Food Was Founded By Aniruddha, Sambhav, Vedant(A 5 Michelin Stars Chefs) In 2002 In Indore. After That, Thanks To The Support Of Our Customers, Our Brand Has Been Popularized Globally In Markets Such As Australia, USA, Canada, UK, France, Germany, Belgium, Russia, China, India, Japan, Singapore, ... Mexican-Style Meals, The Products That We Deliver To Customers Are Always The Best Quality Products.
+
+Customers Can Eat At The Restaurant To Experience The Mexican Atmosphere Or Can Order Food To Be Delivered To Their Homes.</p>
                 </div>
             </div>
         </div>
