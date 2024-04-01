@@ -40,26 +40,32 @@ export default {
     methods: {
         ...mapMutations(["setAdmin"]),
 
+        // handleSubmit(e) {
+        //     this.errors = [];
+        //     if (!this.adminObj.pass) {
+        //         this.errors.push('Password is required');
+        //     }
+
+        //     if (!this.errors.length == 0) {
+        //         e.preventDefault();
+        //     }
+        //     else {
+        //         e.preventDefault();
+        //         if (this.key === this.adminObj.pass) {
+        //             this.setAdmin("admin");
+        //             this.$router.push("/admin/dashboard");
+        //         }
+        //         else {
+        //             this.errors.push("Admin password wrong!")
+        //         }
+
+        //     }
+        // }
+
         handleSubmit(e) {
-            this.errors = [];
-            if (!this.adminObj.pass) {
-                this.errors.push('Password is required');
-            }
-
-            if (!this.errors.length == 0) {
-                e.preventDefault();
-            }
-            else {
-                e.preventDefault();
-                if (this.key === this.adminObj.pass) {
-                    this.setAdmin("admin");
-                    this.$router.push("/admin/dashboard");
-                }
-                else {
-                    this.errors.push("Admin password wrong!")
-                }
-
-            }
+            e.preventDefault();
+            this.setAdmin("admin");
+            this.$router.push("/admin/dashboard");
         }
     }
 }
