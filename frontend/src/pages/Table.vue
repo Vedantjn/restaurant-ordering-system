@@ -149,16 +149,16 @@ export default {
                 this.errorObj.phoneErr.push('Entering phone number is required');
             }
             else {
-                if (!this.orderObj.phone.startsWith('84')) {
-                    this.errorObj.phoneErr.push('Phone numbers must start with 84');
+                if (!this.orderObj.phone.startsWith('91')) {
+                    this.errorObj.phoneErr.push('Phone numbers must start with 91');
                 }
 
                 if (!/[0-9]{10}/.test(this.orderObj.phone)) {
                     this.errorObj.phoneErr.push('Phone numbers can only contain numbers');
                 }
 
-                if (this.orderObj.phone.length != 11) {
-                    this.errorObj.phoneErr.push('Phone numbers must have exactly 11 digits');
+                if (this.orderObj.phone.length != 12) {
+                    this.errorObj.phoneErr.push('Phone numbers must have exactly 12 digits');
                 }
             }
 

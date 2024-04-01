@@ -192,10 +192,10 @@
                 <h3>New drink 100% Cashback</h3>
                 <ul>
                     <li>
-                        <p>Free 01 Michelada when total bill more than $20</p>
+                        <p>Free 01 Michelada when total bill more than ₹20</p>
                     </li>
                     <li>
-                        <p>From 23/11/2021 to 12/12/2021</p>
+                        <p>From 23/03/2024 to 12/06/2024</p>
                     </li>
                     <li>
                         <p>Only online payment method</p>

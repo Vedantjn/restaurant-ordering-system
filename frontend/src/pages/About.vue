@@ -9,7 +9,7 @@
             <div class="about-content">
                 <img src="../assets/images/taco-chefcartoon.png" alt="">
                 <div class="about-content-text">
-                    <p>Our Restaurant ASV Food Was Founded By Aniruddha, Sambhav, Vedant(A 5 Michelin Stars Chefs) In 2002 In Indore. After That, Thanks To The Support Of Our Customers, Our Brand Has Been Popularized Globally In Markets Such As Australia, USA, Canada, UK, France, Germany, Belgium, Russia, China, India, Japan, Singapore, ... Mexican-Style Meals, The Products That We Deliver To Customers Are Always The Best Quality Products.
+                    <p>Our Restaurant ASV Food Was Founded By Aniruddha, Sambhav and Vedant, in 2024 In Indore. After That, Thanks To The Support Of Our Customers, We Would Like Our Brand To Be Popularized Globally In Markets Such As Australia, USA, Canada, UK, France, Germany, Belgium, Russia, China, India, Japan, Singapore, ... Mexican-Style Meals, The Products That We Deliver To Customers Are Always The Best Quality Products.
 
 Customers Can Eat At The Restaurant To Experience The Mexican Atmosphere Or Can Order Food To Be Delivered To Their Homes.</p>
                 </div>
